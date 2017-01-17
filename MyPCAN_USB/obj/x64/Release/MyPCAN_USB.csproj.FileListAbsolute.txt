@@ -1,0 +1,12 @@
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\bin\x64\Release\MyPCAN_USB.exe.config
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\bin\x64\Release\MyPCAN_USB.exe
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\bin\x64\Release\MyPCAN_USB.pdb
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.csprojResolveAssemblyReference.cache
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.Form1.resources
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.Properties.Resources.resources
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.csproj.GenerateResource.Cache
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.exe
+C:\Users\PSW\Desktop\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.pdb
+F:\PSW_software\PSW_PCAN _2\MyPCAN_USB\bin\x64\Release\MyPCAN_USB.exe.config
+F:\PSW_software\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.exe
+F:\PSW_software\PSW_PCAN _2\MyPCAN_USB\obj\x64\Release\MyPCAN_USB.pdb
